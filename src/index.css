@@ -1,0 +1,13 @@
+@import "tailwindcss";
+@plugin "daisyui" {
+  themes: light --default, dark --prefersdark, cupcake;
+}
+
+body {
+  background: linear-gradient(180deg, #f0f4ff 0%, #ffffff 100%);
+  font-family: "Inter", sans-serif;
+}
+
+.dark body {
+  background: linear-gradient(180deg, #111827 0%, #1f2937 100%);
+}
