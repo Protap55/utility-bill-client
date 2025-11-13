@@ -59,7 +59,7 @@ const TotalBillsPage = ({ user }) => {
             <strong>Date:</strong> {billDate.toLocaleDateString()}
           </p>
 
-          {/* Pay Bill Button */}
+          
           <button
             onClick={() => setModalIsOpen(true)}
             disabled={!isCurrentMonth}
