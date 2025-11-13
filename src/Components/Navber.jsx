@@ -255,7 +255,7 @@ const Navbar = () => {
                   onClick={() => setMenuOpen(false)}
                   className={navLinkClassMobile}
                 >
-                  Login
+                  {/* Login */}
                 </NavLink>
                 <NavLink
                   to="/registration"
