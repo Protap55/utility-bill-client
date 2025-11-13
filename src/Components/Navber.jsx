@@ -262,7 +262,7 @@ const Navbar = () => {
                   onClick={() => setMenuOpen(false)}
                   className={navLinkClassMobile}
                 >
-                  {/* Register */}
+                  Register
                 </NavLink>
               </>
             )}
