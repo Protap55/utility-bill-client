@@ -50,14 +50,14 @@ const Bills = () => {
               </p>
               <p className="text-gray-600 text-sm mb-3">{bill.description}</p>
 
-              <div className="flex justify-between items-center mt-4">
+              {/* <div className="flex justify-between items-center mt-4">
                 <span className="text-xl font-bold text-indigo-600">
                   ৳ {bill.amount}
                 </span>
                 <span className="text-sm text-gray-500">
                   {new Date(bill.date).toLocaleDateString()}
                 </span>
-              </div>
+              </div> */}
               <p className="text-xs text-gray-400 mt-2">{bill.location}</p>
             </div>
 
