@@ -96,7 +96,7 @@ const Navbar = () => {
             whileHover={{ scale: 1.1 }}
           />
           <span className="text-lg sm:text-2xl font-bold text-[#155dfc] dark:text-white">
-            Utility Bill Management
+            Utility Bill Management System
           </span>
         </NavLink>
 
