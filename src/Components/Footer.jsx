@@ -107,9 +107,9 @@ const Footer = () => {
             <h3 className="text-lg font-semibold text-black mb-4">Contact</h3>
             <p className="text-gray-600">Email: protapwith.dev@gmail.com</p>
             <p className="text-gray-600">Phone: +880 1234 567890</p>
-            <p className="text-gray-600 mt-2">
+            {/* <p className="text-gray-600 mt-2">
               Address: Mirpur-2, Dhaka, Bangladesh
-            </p>
+            </p> */}
           </div>
         </div>
       </div>
