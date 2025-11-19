@@ -1,10 +1,12 @@
 # 💡 Utility Bill Management System
+A simple and user-friendly **utility bill management system** designed to help users track, pay, and manage their utility bills efficiently.
+
 
 **Live Site:** [my-utility-bill-management-system.netlify.app](https://my-utility-bill-management-system.netlify.app)  
 **Client Repository:** [utility-bill-client](https://github.com/Protap55/utility-bill-client?tab=readme-ov-file)  
 **Server Repository:** [utility-bill-server](https://github.com/Protap55/utility-bill-server)
 
-A simple and user-friendly **utility bill management system** designed to help users track, pay, and manage their utility bills efficiently.
+
 
 ---
 
